@@ -1,0 +1,11 @@
+#result {
+  min-height: 150px;
+  padding: 10px;
+}
+
+.text-highlight {
+  color: red;
+  text-decoration: underline;
+  font-weight: bold;
+  cursor: pointer;
+}
