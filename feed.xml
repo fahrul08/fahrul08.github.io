@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>FWalid08</title>
+    <link href="https://fwalid08.github.io/feed.xml" rel="self" />
+    <link href="https://fwalid08.github.io" />
+    <updated>2022-10-19T07:58:13+07:00</updated>
+    <author>
+        <name>Fahrul W Djuhaeri</name>
+    </author>
+    <id>https://fwalid08.github.io</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Fahrul W Djuhaeri</name>
+        </author>
+        <link href="https://fwalid08.github.io/test.html"/>
+        <id>https://fwalid08.github.io/test.html</id>
+
+        <updated>2022-10-19T07:58:13+07:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

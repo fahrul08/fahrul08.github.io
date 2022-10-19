@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FWalid08",
+    "description": "",
+    "home_page_url": "https://fwalid08.github.io",
+    "feed_url": "https://fwalid08.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fahrul W Djuhaeri"
+    },
+    "items": [
+        {
+            "id": "https://fwalid08.github.io/test.html",
+            "url": "https://fwalid08.github.io/test.html",
+            "title": "Test",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "author": {
+                "name": "Fahrul W Djuhaeri"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-19T07:58:13+07:00",
+            "date_modified": "2022-10-19T07:58:13+07:00"
+        }
+    ]
+}
